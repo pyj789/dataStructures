@@ -20,4 +20,4 @@ def fiboLoop(num):
     
     return curr
         
-print(fiboLoop(5))
+#print(fiboLoop(5))
